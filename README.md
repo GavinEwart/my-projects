@@ -2,12 +2,11 @@
 
 ## AI Projects
 - [AI Project 1](https://github.com/yourusername/ai-project1)
-- [AI Project 2](https://github.com/yourusername/ai-project2)
 
 ## Web Projects
-- [Web Project 1](https://github.com/yourusername/web-project1)
-- [Web Project 2](https://github.com/yourusername/web-project2)
+- [React-App-With_tailwind](https://github.com/yourusername/web-project1](https://github.com/GavinEwart/react-app-with-tailwind)
+- [React-Portfolio-Website](https://github.com/GavinEwart/React-Portfolio-Website)
+- [Flask-Boiler-Plate](https://github.com/GavinEwart/flask_boiler_plate)
 
 ## Cryptography Projects
 - [Cryptography Project 1](https://github.com/yourusername/cryptography-project1)
-- [Cryptography Project 2](https://github.com/yourusername/cryptography-project2)
