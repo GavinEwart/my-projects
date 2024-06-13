@@ -1,10 +1,10 @@
 # My Projects
 
 ### AI Projects
-- [AI Project 1](https://github.com/yourusername/ai-project1)
+- [Medical Ai](https://github.com/GavinEwart/medical_ai)
 
 ### Web Projects
-- [React-App-With_tailwind](https://github.com/GavinEwart/react-app-with-tailwind)
+- [React-App-With-tailwind](https://github.com/GavinEwart/react-app-with-tailwind)
 - [React-Portfolio-Website](https://github.com/GavinEwart/React-Portfolio-Website)
 - [Flask-Boiler-Plate](https://github.com/GavinEwart/flask_boiler_plate)
 
